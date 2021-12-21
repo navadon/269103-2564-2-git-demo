@@ -9,7 +9,7 @@
 * Merge the branch back into your main
 * Create a pull request to this repo
 
-  * 5555
+  * 5555 Pearl White
   * 1034
   * 5016
   * 5029
@@ -24,8 +24,8 @@
   * 5018
   * 5019
   * 5020
-  * 5023
+  * 5023 Aqua
   * 5024 Navy Blue
-  * 5025 
+  * 5025 Toro Red
   * 5026 
   * 5504 
