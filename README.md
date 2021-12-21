@@ -9,7 +9,7 @@
 * Merge the branch back into your main
 * Create a pull request to this repo
 
-  * 5555 White
+  * 5555 Pearl White
   * 1034
   * 5016
   * 5029
